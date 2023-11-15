@@ -27,8 +27,11 @@ Question 2:
 -----------
 
 npm init -y
+
 npm install express 
+
 npm install request
+
 
 To run the server
 
