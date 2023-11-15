@@ -1,0 +1,18 @@
+[
+    {
+      "id": "101",
+      "name": "Project A",
+      "description": "Web Application Development"
+    },
+    {
+      "id": "102",
+      "name": "Project B",
+      "description": "Mobile App Development"
+    },
+    {
+      "id": "103",
+      "name": "Project C",
+      "description": "UI/UX Redesign"
+    }
+  ]
+  
